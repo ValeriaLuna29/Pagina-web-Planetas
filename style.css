@@ -1,0 +1,23 @@
+
+body {
+    background-color: rgb(32, 43, 116);
+    color: aliceblue;
+    font-family: 'Neuton', serif;
+}
+
+h1 {
+    color: rgba(167, 29, 29, 0.863);
+}
+h3 {
+    color: brown;
+}
+a {
+    color: rgb(83, 172, 249);
+}
+img {
+    width: 60%;
+    border: radius 10%;
+}
+.Sistema-Solar{
+    width: 85%;
+}
